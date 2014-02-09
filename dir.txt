@@ -1,0 +1,6 @@
+Makefile
+README.md
+dir.txt
+lib
+package.json
+test
